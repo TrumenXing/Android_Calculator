@@ -3,9 +3,8 @@
 * Download [HERE](https://github.com/arturobp3/Android_Calculator/blob/master/Calculadora.apk)
 * View the code I wrote [HERE](https://github.com/arturobp3/Android_Calculator/tree/master/Calculadora/app)
 
-<p align="left">
-  <img src="https://github.com/arturobp3/Android_Calculator/blob/master/screenshots/1.png" width="100" height="100">
+<p>
+  <div align="left><img src="https://github.com/arturobp3/Android_Calculator/blob/master/screenshots/1.png" width="500" height="1000"></div>
+  <div align="right"><img src="https://github.com/arturobp3/Android_Calculator/blob/master/screenshots/2.png" width="500" height="1000"></div>        
 </p>
-<p align="right">
-  <img src="https://github.com/arturobp3/Android_Calculator/blob/master/screenshots/2.png" width="100" height="100">
-</p>
+
