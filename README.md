@@ -4,7 +4,7 @@
 * View the code I wrote [HERE](https://github.com/arturobp3/Android_Calculator/tree/master/Calculadora/app)
 
 <p>
-  <div align="center"><img src="https://github.com/arturobp3/Android_Calculator/blob/master/screenshots/1.png" width="300" height="800">
-  <img src="https://github.com/arturobp3/Android_Calculator/blob/master/screenshots/2.png" width="300" height="800"></div>      
+  <div align="center"><img src="https://github.com/arturobp3/Android_Calculator/blob/master/screenshots/1.png" width="400" height="700">
+  <img src="https://github.com/arturobp3/Android_Calculator/blob/master/screenshots/2.png" width="400" height="700"></div>      
 </p>
 
